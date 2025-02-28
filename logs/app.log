@@ -1,0 +1,114 @@
+2025-02-27 17:00:49 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-27 17:01:03 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-27 17:01:03 - FaceRecognitionAPI - INFO - Detected 2 faces
+2025-02-27 17:01:32 - FaceRecognitionAPI - INFO - Registering face for user_id: test1
+2025-02-27 17:01:32 - FaceRecognitionAPI - INFO - Face registered successfully for user_id: test1
+2025-02-27 17:01:41 - FaceRecognitionAPI - INFO - Registering face for user_id: test2
+2025-02-27 17:01:41 - FaceRecognitionAPI - WARNING - Duplicate user_id: test2
+2025-02-27 17:01:52 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-27 17:01:52 - FaceRecognitionAPI - INFO - Returning 3 users out of 3
+2025-02-27 17:02:34 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-27 17:02:42 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-27 17:02:42 - FaceRecognitionAPI - INFO - Returning 3 users out of 3
+2025-02-28 09:22:20 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 09:22:20 - FaceRecognitionAPI - INFO - Returning 3 users out of 3
+2025-02-28 09:23:22 - FaceRecognitionAPI - INFO - Retrieving database status
+2025-02-28 14:17:31 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 14:17:48 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 14:17:59 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 14:17:59 - FaceRecognitionAPI - INFO - Detected 4 faces
+2025-02-28 14:18:13 - FaceRecognitionAPI - INFO - Registering face for user_id: test10
+2025-02-28 14:18:13 - FaceRecognitionAPI - INFO - Face registered successfully for user_id: test10
+2025-02-28 14:18:21 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 14:18:21 - FaceRecognitionAPI - INFO - Face found for user_id: test10
+2025-02-28 14:19:09 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 14:19:09 - FaceRecognitionAPI - INFO - Returning 4 users out of 4
+2025-02-28 14:20:19 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 14:33:48 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 14:34:04 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 14:34:04 - FaceRecognitionAPI - INFO - Detected 4 faces
+2025-02-28 14:34:21 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 14:34:21 - FaceRecognitionAPI - INFO - Face found for user_id: test10
+2025-02-28 14:34:39 - FaceRecognitionAPI - INFO - Registering face for user_id: yu
+2025-02-28 14:34:39 - FaceRecognitionAPI - INFO - Face registered successfully for user_id: yu
+2025-02-28 14:34:53 - FaceRecognitionAPI - INFO - Deleting user_id: test10
+2025-02-28 14:34:53 - FaceRecognitionAPI - INFO - User test10 deleted successfully
+2025-02-28 14:34:57 - FaceRecognitionAPI - INFO - Deleting user_id: test10
+2025-02-28 14:34:57 - FaceRecognitionAPI - WARNING - User not found: test10
+2025-02-28 14:35:11 - FaceRecognitionAPI - INFO - Updating user_id: test3
+2025-02-28 14:35:11 - FaceRecognitionAPI - INFO - User test3 updated successfully
+2025-02-28 14:35:16 - FaceRecognitionAPI - INFO - Updating user_id: test3
+2025-02-28 14:35:16 - FaceRecognitionAPI - INFO - User test3 updated successfully
+2025-02-28 14:35:20 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 14:35:20 - FaceRecognitionAPI - INFO - Returning 4 users out of 4
+2025-02-28 14:36:49 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 14:37:06 - FaceRecognitionAPI - INFO - Registering face for user_id: zhang
+2025-02-28 14:37:07 - FaceRecognitionAPI - INFO - Face registered successfully for user_id: zhang
+2025-02-28 14:37:14 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 14:37:14 - FaceRecognitionAPI - INFO - Face found for user_id: zhang
+2025-02-28 14:37:29 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 14:37:29 - FaceRecognitionAPI - INFO - Returning 5 users out of 5
+2025-02-28 14:40:50 - FaceRecognitionAPI - INFO - Retrieving database status
+2025-02-28 14:57:45 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 14:58:02 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 14:58:09 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:01:16 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:01:25 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 15:01:25 - FaceRecognitionAPI - INFO - Returning 5 users out of 5
+2025-02-28 15:02:34 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:03:27 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:03:35 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 15:03:35 - FaceRecognitionAPI - INFO - Returning 5 users out of 5
+2025-02-28 15:04:02 - FaceRecognitionAPI - INFO - Starting batch delete for 1 users
+2025-02-28 15:05:33 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:05:45 - FaceRecognitionAPI - INFO - Deleting user_id: zhang
+2025-02-28 15:05:45 - FaceRecognitionAPI - INFO - User zhang deleted successfully
+2025-02-28 15:05:57 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:06:01 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:06:04 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:06:10 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:06:10 - FaceRecognitionAPI - INFO - Detected 4 faces
+2025-02-28 15:08:56 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:11:07 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:11:22 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:11:22 - FaceRecognitionAPI - INFO - No matching face found
+2025-02-28 15:11:29 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:11:29 - FaceRecognitionAPI - INFO - Face found for user_id: yu
+2025-02-28 15:13:46 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:14:00 - FaceRecognitionAPI - INFO - Registering face for user_id: yu2
+2025-02-28 15:14:00 - FaceRecognitionAPI - INFO - Face registered successfully for user_id: yu2
+2025-02-28 15:14:08 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:14:08 - FaceRecognitionAPI - INFO - Face found for user_id: yu
+2025-02-28 15:14:21 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:14:21 - FaceRecognitionAPI - INFO - Detected 4 faces
+2025-02-28 15:14:35 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:14:35 - FaceRecognitionAPI - INFO - No matching face found
+2025-02-28 15:14:50 - FaceRecognitionAPI - INFO - Updating user_id: jj
+2025-02-28 15:14:50 - FaceRecognitionAPI - WARNING - User not found: jj
+2025-02-28 15:14:56 - FaceRecognitionAPI - INFO - Updating user_id: yu2
+2025-02-28 15:14:56 - FaceRecognitionAPI - INFO - User yu2 updated successfully
+2025-02-28 15:15:05 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:15:05 - FaceRecognitionAPI - INFO - Face found for user_id: yu2
+2025-02-28 15:15:15 - FaceRecognitionAPI - INFO - Deleting user_id: yu2
+2025-02-28 15:15:15 - FaceRecognitionAPI - INFO - User yu2 deleted successfully
+2025-02-28 15:15:33 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 15:15:33 - FaceRecognitionAPI - INFO - Returning 4 users out of 4
+2025-02-28 15:48:12 - FaceRecognitionAPI - INFO - Starting Face Recognition API...
+2025-02-28 15:48:25 - FaceRecognitionAPI - INFO - Starting face detection
+2025-02-28 15:48:26 - FaceRecognitionAPI - INFO - Detected 4 faces
+2025-02-28 15:48:44 - FaceRecognitionAPI - INFO - Registering face for user_id: test1
+2025-02-28 15:48:44 - FaceRecognitionAPI - WARNING - Duplicate user_id: test1
+2025-02-28 15:48:52 - FaceRecognitionAPI - INFO - Registering face for user_id: test17
+2025-02-28 15:48:52 - FaceRecognitionAPI - INFO - Face registered successfully for user_id: test17
+2025-02-28 15:49:02 - FaceRecognitionAPI - INFO - Deleting user_id: test17
+2025-02-28 15:49:02 - FaceRecognitionAPI - INFO - User test17 deleted successfully
+2025-02-28 15:49:10 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:49:10 - FaceRecognitionAPI - INFO - No matching face found
+2025-02-28 15:49:13 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:49:13 - FaceRecognitionAPI - INFO - Face found for user_id: test2
+2025-02-28 15:49:27 - FaceRecognitionAPI - INFO - Updating user_id: test1
+2025-02-28 15:49:27 - FaceRecognitionAPI - INFO - User test1 updated successfully
+2025-02-28 15:49:35 - FaceRecognitionAPI - INFO - Starting face search
+2025-02-28 15:49:35 - FaceRecognitionAPI - INFO - Face found for user_id: test1
+2025-02-28 15:49:44 - FaceRecognitionAPI - INFO - Fetching users with limit=100, offset=0
+2025-02-28 15:49:44 - FaceRecognitionAPI - INFO - Returning 4 users out of 4
